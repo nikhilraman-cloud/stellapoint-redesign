@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+*~
+
+# Dependencies (just in case)
+node_modules/
+
+# Local Claude settings
+.claude/settings.local.json
+
+# Archives
+*.zip

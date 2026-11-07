@@ -1,0 +1,35 @@
+{
+  "_comment": "Eight philosophy-page stats. 'origin' is the source of record. Footnotes are for compliance review and are NOT rendered on the mockup.",
+  "as_of_note": "Deck dated November 2026 (DRAFT v001); deck portfolio statistics are as of 9/30/2026. Live-site stats have no stated as-of date.",
+  "groups": [
+    {
+      "label": "Before we invest",
+      "stats": [
+        { "value": "100%", "label": "Alignment around the shared value of culture", "origin": "deck slide 6 — Sourcing / Connecting", "footnotes": [] },
+        { "value": "9", "label": "Historical portfolio references", "origin": "deck slide 6 — Sourcing / Validation", "footnotes": [] }
+      ]
+    },
+    {
+      "label": "When we partner",
+      "stats": [
+        { "value": "29%", "label": "Average management / founder equity rollover", "origin": "deck slide 6 — Investment / Rollover", "footnotes": [] },
+        { "value": "40+", "label": "Employee equity holders per company", "origin": "live site (philosophy page)", "footnotes": ["Confirm still accurate before ship"] }
+      ]
+    },
+    {
+      "label": "As we build",
+      "stats": [
+        { "value": "72%", "label": "Average senior leadership team growth", "origin": "deck slide 6 — Investment / Building Leadership", "footnotes": ["(1) Excludes TRX Services (acquired March 2026)"] },
+        { "value": "150%", "label": "Post-investment employee growth", "origin": "live site (philosophy page)", "footnotes": ["Confirm still accurate before ship"] },
+        { "value": "11", "label": "Alumni executives across the portfolio", "origin": "deck slide 6 — Investment / Leveraging Talent Pool", "footnotes": [] }
+      ]
+    },
+    {
+      "label": "After",
+      "stats": [
+        { "value": "23", "label": "Management co-investments across Stella Point deals", "origin": "deck slide 6 — Post-investment / Becoming Investors", "footnotes": [] }
+      ]
+    }
+  ],
+  "deck_general_note": "Past performance is not indicative of future results. See page 37 for disclaimers and important additional information."
+}
